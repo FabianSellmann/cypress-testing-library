@@ -86,7 +86,7 @@ and should be added as follows in `tsconfig.json`:
 ```json
 {
   "compilerOptions": {
-    "types": ["cypress", "@types/testing-library__cypress"]
+    "types": ["cypress", "testing-library__cypress"]
   }
 }
 ```
